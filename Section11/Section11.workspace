@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10000">
+  <Project Name="Math" Path="Math/Math.project" Active="No"/>
+  <Project Name="RandomNumbers" Path="RandomNumbers/RandomNumbers.project" Active="No"/>
+  <Project Name="FunctionDefinations" Path="FunctionDefinations/FunctionDefinations.project" Active="No"/>
+  <Project Name="FunctionPrototypes" Path="FunctionPrototypes/FunctionPrototypes.project" Active="No"/>
+  <Project Name="FailProject" Path="NewFunction/NewFunction.project" Active="No"/>
+  <Project Name="AreaAndVolumeWTHOFunctions" Path="AreaAndVolumeWTHOFunctions/AreaAndVolumeWTHOFunctions.project" Active="No"/>
+  <Project Name="MadLibsGameNew" Path="MadLibsGameNew/MadLibsGameNew.project" Active="No"/>
+  <Project Name="GreatestNum" Path="GreatestNum/GreatestNum.project" Active="No"/>
+  <Project Name="VowelOrConsonant" Path="VowelOrConsonant/VowelOrConsonant.project" Active="Yes"/>
+  <Project Name="BetterCalculator" Path="BetterCalculator/BetterCalculator.project" Active="No"/>
+  <Project Name="SwitchCaseNew" Path="SwitchCaseNew/SwitchCaseNew.project" Active="No"/>
+  <Project Name="GuessingGame" Path="GuessingGame/GuessingGame.project" Active="No"/>
+  <Project Name="ExponentialFunction" Path="ExponentialFunction/ExponentialFunction.project" Active="No"/>
+  <Project Name="2DArrays" Path="2DArrays/2DArrays.project" Active="No"/>
+  <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="ClassAndObjects" Path="ClassAndObjects/ClassAndObjects.project" Active="No"/>
+  <Project Name="ObjectFunctions" Path="ObjectFunctions/ObjectFunctions.project" Active="No"/>
+  <Project Name="GettersAndSetters" Path="GettersAndSetters/GettersAndSetters.project" Active="No"/>
+  <Project Name="Inheritance" Path="Inheritance/Inheritance.project" Active="No"/>
+  <Project Name="Trial" Path="Trial/Trial.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Math" ConfigName="Debug"/>
+      <Project Name="RandomNumbers" ConfigName="Debug"/>
+      <Project Name="FunctionDefinations" ConfigName="Debug"/>
+      <Project Name="FunctionPrototypes" ConfigName="Debug"/>
+      <Project Name="FailProject" ConfigName="Debug"/>
+      <Project Name="AreaAndVolumeWTHOFunctions" ConfigName="Debug"/>
+      <Project Name="MadLibsGameNew" ConfigName="Debug"/>
+      <Project Name="GreatestNum" ConfigName="Debug"/>
+      <Project Name="VowelOrConsonant" ConfigName="Debug"/>
+      <Project Name="BetterCalculator" ConfigName="Debug"/>
+      <Project Name="SwitchCaseNew" ConfigName="Debug"/>
+      <Project Name="GuessingGame" ConfigName="Debug"/>
+      <Project Name="ExponentialFunction" ConfigName="Debug"/>
+      <Project Name="2DArrays" ConfigName="Debug"/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="ClassAndObjects" ConfigName="Debug"/>
+      <Project Name="ObjectFunctions" ConfigName="Debug"/>
+      <Project Name="GettersAndSetters" ConfigName="Debug"/>
+      <Project Name="Inheritance" ConfigName="Debug"/>
+      <Project Name="Trial" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Math" ConfigName="Release"/>
+      <Project Name="RandomNumbers" ConfigName="Release"/>
+      <Project Name="FunctionDefinations" ConfigName="Release"/>
+      <Project Name="FunctionPrototypes" ConfigName="Release"/>
+      <Project Name="FailProject" ConfigName="Release"/>
+      <Project Name="AreaAndVolumeWTHOFunctions" ConfigName="Release"/>
+      <Project Name="MadLibsGameNew" ConfigName="Release"/>
+      <Project Name="GreatestNum" ConfigName="Release"/>
+      <Project Name="VowelOrConsonant" ConfigName="Release"/>
+      <Project Name="BetterCalculator" ConfigName="Release"/>
+      <Project Name="SwitchCaseNew" ConfigName="Release"/>
+      <Project Name="GuessingGame" ConfigName="Release"/>
+      <Project Name="ExponentialFunction" ConfigName="Release"/>
+      <Project Name="2DArrays" ConfigName="Release"/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="ClassAndObjects" ConfigName="Release"/>
+      <Project Name="ObjectFunctions" ConfigName="Release"/>
+      <Project Name="GettersAndSetters" ConfigName="Release"/>
+      <Project Name="Inheritance" ConfigName="Release"/>
+      <Project Name="Trial" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

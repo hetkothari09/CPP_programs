@@ -1,0 +1,101 @@
+std	C:\Users\vasudevay\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr {$/;"	namespace	line:1
+shared_ptr	C:\Users\vasudevay\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr { $/;"	class	line:1	namespace:std
+operator ->	C:\Users\vasudevay\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _Tp* operator->();$/;"	prototype	line:2	class:std::shared_ptr	access:private	signature:()	returns:_Tp 
+reset	C:\Users\vasudevay\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr );$/;"	prototype	line:3	class:std::shared_ptr	access:private	signature:( Y* ptr )	returns:void 
+reset	C:\Users\vasudevay\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d );$/;"	prototype	line:4	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d )	returns:void 
+reset	C:\Users\vasudevay\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d, Alloc alloc );$/;"	prototype	line:5	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d, Alloc alloc )	returns:void 
+get	C:\Users\vasudevay\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _T* get() const;$/;"	prototype	line:6	class:std::shared_ptr	access:private	signature:() const	returns:_T 
+GoodMorning	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^void GoodMorning(){$/;"	function	line:5	signature:()	returns:void 
+GoodEvening	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^void GoodEvening(){$/;"	function	line:10	signature:()	returns:void 
+GoodNight	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^void GoodNight(){$/;"	function	line:13	signature:()	returns:void 
+sayHi	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^void sayHi(string name,int age);$/;"	prototype	line:27	signature:(string name,int age)	returns:void 
+cube	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^double cube(double num);$/;"	prototype	line:28	signature:(double num)	returns:double 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^int main() {$/;"	function	line:30	signature:()	returns:int 
+sayHi	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^void sayHi(string name,int age){$/;"	function	line:62	signature:(string name,int age)	returns:void 
+cube	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\NewFunction\main.cpp	/^double cube (double num){$/;"	function	line:66	signature:(double num)	returns:double 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\RandomNumbers\main.cpp	/^int main ()$/;"	function	line:10	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Math\main.cpp	/^int main ()$/;"	function	line:9	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GreatestNum\main.cpp	/^int main() {$/;"	function	line:4	signature:()	returns:int 
+calc_volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^double calc_volume_cylinder(double radius , double height) ;$/;"	prototype	line:10	signature:(double radius , double height)	returns:double 
+calc_area_circle	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^double calc_area_circle (double);                           \/\/ only 'double' also is fine .. 'arguments'$/;"	prototype	line:11	signature:(double)	returns:double 
+area_circle	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^void area_circle();$/;"	prototype	line:12	signature:()	returns:void 
+volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^void volume_cylinder();$/;"	prototype	line:13	signature:()	returns:void 
+pi	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^const double pi = 3.14159;$/;"	variable	line:16
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^int main () {$/;"	function	line:18	signature:()	returns:int 
+calc_volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^double calc_volume_cylinder(double radius , double height) {$/;"	function	line:24	signature:(double radius , double height)	returns:double 
+calc_area_circle	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^double calc_area_circle (double radius) {                                  $/;"	function	line:29	signature:(double radius)	returns:double 
+area_cirlce	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^void area_cirlce () {$/;"	function	line:33	signature:()	returns:void 
+volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^void volume_cylinder ();$/;"	prototype	line:40	signature:()	returns:void 
+radius	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^cin >> radius ;$/;"	variable	line:44
+height	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionPrototypes\main.cpp	/^cin >> height ;$/;"	variable	line:46
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\2DArrays\main.cpp	/^int main() {$/;"	function	line:4	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Pointers\main.cpp	/^int main() {$/;"	function	line:6	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GuessingGame\main.cpp	/^int main() {$/;"	function	line:3	signature:()	returns:int 
+Student	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ObjectFunctions\main.cpp	/^class Student {$/;"	class	line:5
+name	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ObjectFunctions\main.cpp	/^        string name;$/;"	member	line:7	class:Student	access:public
+major	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ObjectFunctions\main.cpp	/^        string major;$/;"	member	line:8	class:Student	access:public
+gpa	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ObjectFunctions\main.cpp	/^        double gpa;$/;"	member	line:9	class:Student	access:public
+Student	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ObjectFunctions\main.cpp	/^        Student(string aName , string aMajor, double aGpa){$/;"	function	line:10	class:Student	access:public	signature:(string aName , string aMajor, double aGpa)
+hasHonors	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ObjectFunctions\main.cpp	/^            bool hasHonors () {$/;"	function	line:16	class:Student	access:public	signature:()	returns:bool 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ObjectFunctions\main.cpp	/^int main() {$/;"	function	line:30	signature:()	returns:int 
+calc_area_circle	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\AreaAndVolumeWTHOFunctions\main.cpp	/^double calc_area_circle(double radius){$/;"	function	line:8	signature:(double radius)	returns:double 
+area_circle	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\AreaAndVolumeWTHOFunctions\main.cpp	/^void area_circle(){$/;"	function	line:11	signature:()	returns:void 
+calc_area_sphere	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\AreaAndVolumeWTHOFunctions\main.cpp	/^double calc_area_sphere(double radius){$/;"	function	line:20	signature:(double radius)	returns:double 
+area_sphere	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\AreaAndVolumeWTHOFunctions\main.cpp	/^void area_sphere(){$/;"	function	line:24	signature:()	returns:void 
+calc_volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\AreaAndVolumeWTHOFunctions\main.cpp	/^double calc_volume_cylinder(double radius,double height){$/;"	function	line:32	signature:(double radius,double height)	returns:double 
+volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\AreaAndVolumeWTHOFunctions\main.cpp	/^void volume_cylinder(){$/;"	function	line:35	signature:()	returns:void 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\AreaAndVolumeWTHOFunctions\main.cpp	/^int main() {$/;"	function	line:48	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\SwitchCaseNew\main.cpp	/^int main() {$/;"	function	line:3	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\MadLibsGameNew\main.cpp	/^int main() {$/;"	function	line:4	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\BetterCalculator\main.cpp	/^int main() {$/;"	function	line:4	signature:()	returns:int 
+power	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ExponentialFunction\main.cpp	/^int power (int baseNum, int powNum){$/;"	function	line:4	signature:(int baseNum, int powNum)	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ExponentialFunction\main.cpp	/^int main() {$/;"	function	line:13	signature:()	returns:int 
+calc_area_circle	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionDefinations\main.cpp	/^    double calc_area_circle(double radius){   \/\/ This is the Function Declared for calulating the area of circle$/;"	function	line:11	signature:(double radius)	returns:double 
+area_circle	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionDefinations\main.cpp	/^void area_circle() {$/;"	function	line:15	signature:()	returns:void 
+calc_volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionDefinations\main.cpp	/^ double calc_volume_cylinder (double radius , double height) {$/;"	function	line:22	signature:(double radius , double height)	returns:double 
+volume_cylinder	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionDefinations\main.cpp	/^void volume_cylinder() {$/;"	function	line:25	signature:()	returns:void 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\FunctionDefinations\main.cpp	/^int main (){$/;"	function	line:37	signature:()	returns:int 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\VowelOrConsonant\main.cpp	/^int main() {$/;"	function	line:4	signature:()	returns:int 
+Chef	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^class Chef {$/;"	class	line:5
+makeChicken	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^    void makeChicken () {$/;"	function	line:7	class:Chef	access:public	signature:()	returns:void 
+makeSalad	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^    void makeSalad () {$/;"	function	line:11	class:Chef	access:public	signature:()	returns:void 
+makeSpecialDish	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^    void makeSpecialDish() {$/;"	function	line:15	class:Chef	access:public	signature:()	returns:void 
+ItalianChef	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^class ItalianChef : public Chef {$/;"	class	line:21	inherits:Chef
+makePasta	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^    void makePasta() {$/;"	function	line:23	class:ItalianChef	access:public	signature:()	returns:void 
+makeSpecialDish	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^    void makeSpecialDish() {$/;"	function	line:27	class:ItalianChef	access:public	signature:()	returns:void 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Inheritance\main.cpp	/^int main() {$/;"	function	line:33	signature:()	returns:int 
+gameOver	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^bool gameOver;$/;"	variable	line:4
+width	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^const int width = 20;$/;"	variable	line:5
+height	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^const int height = 20;$/;"	variable	line:6
+x	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^int x,y, fruitX, fruitY,score;$/;"	variable	line:7
+y	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^int x,y, fruitX, fruitY,score;$/;"	variable	line:7
+fruitX	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^int x,y, fruitX, fruitY,score;$/;"	variable	line:7
+fruitY	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^int x,y, fruitX, fruitY,score;$/;"	variable	line:7
+score	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^int x,y, fruitX, fruitY,score;$/;"	variable	line:7
+eDirection	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^enum eDirection {STOP=0, LEFT , RIGHT , UP , DOWN};$/;"	enum	line:8
+STOP	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^enum eDirection {STOP=0, LEFT , RIGHT , UP , DOWN};$/;"	enumerator	line:8	enum:eDirection
+LEFT	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^enum eDirection {STOP=0, LEFT , RIGHT , UP , DOWN};$/;"	enumerator	line:8	enum:eDirection
+RIGHT	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^enum eDirection {STOP=0, LEFT , RIGHT , UP , DOWN};$/;"	enumerator	line:8	enum:eDirection
+UP	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^enum eDirection {STOP=0, LEFT , RIGHT , UP , DOWN};$/;"	enumerator	line:8	enum:eDirection
+DOWN	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^enum eDirection {STOP=0, LEFT , RIGHT , UP , DOWN};$/;"	enumerator	line:8	enum:eDirection
+dir	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^eDirection dir;$/;"	variable	line:9
+Setup	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^void Setup() {$/;"	function	line:11	signature:()	returns:void 
+Draw	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^void Draw () {$/;"	function	line:21	signature:()	returns:void 
+Input	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^void Input() {$/;"	function	line:54	signature:()	returns:void 
+Logic	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^void Logic () {$/;"	function	line:58	signature:()	returns:void 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\Trial\main.cpp	/^int main() {$/;"	function	line:62	signature:()	returns:int 
+Book	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ClassAndObjects\main.cpp	/^class Book {$/;"	class	line:4
+author	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ClassAndObjects\main.cpp	/^            string author;$/;"	member	line:6	class:Book	access:public
+title	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ClassAndObjects\main.cpp	/^            string title;$/;"	member	line:7	class:Book	access:public
+pages	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ClassAndObjects\main.cpp	/^            int pages;$/;"	member	line:8	class:Book	access:public
+Book	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ClassAndObjects\main.cpp	/^            Book () {$/;"	function	line:10	class:Book	access:public	signature:()
+Book	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ClassAndObjects\main.cpp	/^            Book(string aTitle, string aAuthor , int aPages){$/;"	function	line:16	class:Book	access:public	signature:(string aTitle, string aAuthor , int aPages)
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\ClassAndObjects\main.cpp	/^int main() {$/;"	function	line:23	signature:()	returns:int 
+Movie	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^class Movie {$/;"	class	line:5
+rating	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^                string rating;$/;"	member	line:7	class:Movie	access:private
+title	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^                string title;$/;"	member	line:11	class:Movie	access:public
+director	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^                string director;$/;"	member	line:12	class:Movie	access:public
+Movie	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^            Movie(string aTitle , string aDirector , string aRating){$/;"	function	line:15	class:Movie	access:public	signature:(string aTitle , string aDirector , string aRating)
+setRating	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^        void setRating (string aRating){$/;"	function	line:28	class:Movie	access:public	signature:(string aRating)	returns:void 
+getRatign	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^    string getRatign () {$/;"	function	line:37	class:Movie	access:public	signature:()	returns:string 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^int main() {$/;"	function	line:44	signature:()	returns:int 

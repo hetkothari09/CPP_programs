@@ -1,0 +1,8 @@
+Movie	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^class Movie {$/;"	class	line:5
+rating	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^                string rating;$/;"	member	line:7	class:Movie	access:private
+title	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^                string title;$/;"	member	line:11	class:Movie	access:public
+director	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^                string director;$/;"	member	line:12	class:Movie	access:public
+Movie	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^            Movie(string aTitle , string aDirector , string aRating){$/;"	function	line:15	class:Movie	access:public	signature:(string aTitle , string aDirector , string aRating)
+setRating	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^        void setRating (string aRating){$/;"	function	line:28	class:Movie	access:public	signature:(string aRating)	returns:void 
+getRatign	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^    string getRatign () {$/;"	function	line:37	class:Movie	access:public	signature:()	returns:string 
+main	C:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GettersAndSetters\main.cpp	/^int main() {$/;"	function	line:44	signature:()	returns:int 

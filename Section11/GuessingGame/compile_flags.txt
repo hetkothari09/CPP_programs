@@ -1,0 +1,4 @@
+-IC:\Users\vasudevay\Desktop\Programming Folders\CPPProjects\Section11\GuessingGame
+-std=c++17
+-target
+x86_64-w64-mingw32

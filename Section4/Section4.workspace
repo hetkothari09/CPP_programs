@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section4" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="BASICSOFIO" Path="BASICSOFIO/BASICSOFIO.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="section6INITIALIZINGVARIABLES" Path="section6INITIALIZINGVARIABLES/section6INITIALIZINGVARIABLES.project" Active="No"/>
+  <Project Name="Section6GLOBALVARIABLES" Path="Section6GLOBALVARIABLES/Section6GLOBALVARIABLES.project" Active="No"/>
+  <Project Name="section6PRIMITIVEDATATYPES" Path="section6PRIMITIVEDATATYPES/section6PRIMITIVEDATATYPES.project" Active="No"/>
+  <Project Name="section6SIZEOFOPERATOR" Path="section6SIZEOFOPERATOR/section6SIZEOFOPERATOR.project" Active="No"/>
+  <Project Name="section6CONSTANTS" Path="section6CONSTANTS/section6CONSTANTS.project" Active="No"/>
+  <Project Name="section6CHALLENGE" Path="section6CHALLENGE/section6CHALLENGE.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="BASICSOFIO" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="section6INITIALIZINGVARIABLES" ConfigName="Debug"/>
+      <Project Name="Section6GLOBALVARIABLES" ConfigName="Debug"/>
+      <Project Name="section6PRIMITIVEDATATYPES" ConfigName="Debug"/>
+      <Project Name="section6SIZEOFOPERATOR" ConfigName="Debug"/>
+      <Project Name="section6CONSTANTS" ConfigName="Debug"/>
+      <Project Name="section6CHALLENGE" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="BASICSOFIO" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="section6INITIALIZINGVARIABLES" ConfigName="Release"/>
+      <Project Name="Section6GLOBALVARIABLES" ConfigName="Release"/>
+      <Project Name="section6PRIMITIVEDATATYPES" ConfigName="Release"/>
+      <Project Name="section6SIZEOFOPERATOR" ConfigName="Release"/>
+      <Project Name="section6CONSTANTS" ConfigName="Release"/>
+      <Project Name="section6CHALLENGE" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
